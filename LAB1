@@ -1,13 +1,13 @@
 1. Створити змінні базових (atomic) типів. Базові типи: character, numeric, integer, complex, logical.
-'''
+```
 t1 <-"Oksana Lykhosherstna"
 t2 <- 3.4
 t3 <- 55
 t4 <- 1-1i
 t5 <- TRUE
-'''
+```
 2. Створити вектори, які: містить послідовність з 5 до 75; містить числа 3.14, 2.71, 0, 13; 100 значень TRUE.
-'''
+```
 x1<-5:75
 x1
 
@@ -26,4 +26,4 @@ x3
  [27] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
  [53] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
  [79] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
- '''
+```
